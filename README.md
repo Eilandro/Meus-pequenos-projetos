@@ -1,2 +1,2 @@
 # Meus pequenos projetos
- meu primeiro repositorio
+ Meu primeiro repositorio
